@@ -1,3 +1,3 @@
 # ApiRestProdutos
 
-Projeto estudos Spring Boot
+Projeto estudos CRUD com Spring Boot
